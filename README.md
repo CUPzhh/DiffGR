@@ -12,3 +12,15 @@ psutil==5.9.6
 kornia==0.7.0
 transformers==4.41.2
 numpy==1.26.2
+
+## Referenced Codebase
+
+This project includes portions of code referenced from [Avalanche](https://github.com/ContinualAI/avalanche.git). We appreciate the open-source support provided by the Avalanche project.
+
+### About the Referenced Code
+
+[Avalanche](https://github.com/ContinualAI/avalanche.git) is an open-source framework for continual learning. We have utilized some of its code modules to implement key functionalities, including incremental learning strategies and data processing modules.
+
+### Acknowledgments
+
+We sincerely thank the Avalanche team for their contributions to the open-source community.
